@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "644645846621",
+    "firebase_url": "https://hadoop-tutorial-and-certi.firebaseio.com",
+    "project_id": "hadoop-tutorial-and-certi",
+    "storage_bucket": "hadoop-tutorial-and-certi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644645846621:android:257d8b9be2498d90",
+        "android_client_info": {
+          "package_name": "busyskills.hadooptutorialcertification.withads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644645846621-uiovosg4rdjsof2g95v4eihfkdi72kdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_S2pwZh-uUmPuyX6DfFcRoSMqLEojuok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
