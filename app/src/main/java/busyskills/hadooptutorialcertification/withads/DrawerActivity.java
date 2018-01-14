@@ -40,6 +40,9 @@ public class DrawerActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        //Display Fragment
+        AppUtilities.showFragment(new MainFragment(), getSupportFragmentManager());
     }
 
     @Override

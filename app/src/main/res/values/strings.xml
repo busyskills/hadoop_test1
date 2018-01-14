@@ -5,4 +5,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4550058356701611/3473545079</string>
+    <string name="app_id">ca-app-pub-4550058356701611~7009465408</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
